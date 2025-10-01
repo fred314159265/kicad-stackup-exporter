@@ -15,7 +15,7 @@ A KiCAD plugin that exports PCB stackup information to JSON and generates a beau
 - Works as both a KiCAD plugin and command-line tool
 - Print-optimized HTML output for documentation
 
-Check an example of a [generated documentation page here](https://fred314159265.github.io/kicad-stackup-exporter/example_output\CANchovy_PCB_stackup.html).
+Check an example of a [generated documentation page here](https://fred314159265.github.io/kicad-stackup-exporter/example_output/CANchovy_PCB_stackup.html).
 
 ## Installation
 
