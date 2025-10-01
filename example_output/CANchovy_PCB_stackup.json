@@ -1,0 +1,127 @@
+{
+  "board_name": "CANchovy_PCB.kicad_pcb",
+  "export_date": "2025-10-01T19:44:32.265427",
+  "board_thickness_mm": 1.6062,
+  "total_stackup_thickness_mm": 1.6062,
+  "copper_layer_count": 4,
+  "copper_finish": "HAL lead-free",
+  "dielectric_constraints": true,
+  "edge_connector": null,
+  "castellated_pads": null,
+  "edge_plating": null,
+  "layers": [
+    {
+      "layer_name": "F.SilkS",
+      "type": "Top Silk Screen",
+      "material": "Direct Printing",
+      "color": "White"
+    },
+    {
+      "layer_name": "F.Mask",
+      "type": "Top Solder Mask",
+      "thickness": {
+        "mm": 0.01,
+        "mils": 0.39,
+        "um": 10.0
+      },
+      "material": "Epoxy",
+      "color": "Green",
+      "epsilon_r": 3.3,
+      "loss_tangent": 0.0
+    },
+    {
+      "layer_name": "F.Cu",
+      "type": "copper",
+      "thickness": {
+        "mm": 0.035,
+        "mils": 1.38,
+        "um": 35.0
+      }
+    },
+    {
+      "layer_name": "dielectric 1",
+      "type": "prepreg",
+      "thickness": {
+        "mm": 0.2104,
+        "mils": 8.28,
+        "um": 210.4
+      },
+      "material": "FR4",
+      "color": "FR4 natural",
+      "epsilon_r": 4.5,
+      "loss_tangent": 0.016
+    },
+    {
+      "layer_name": "In1.Cu",
+      "type": "copper",
+      "thickness": {
+        "mm": 0.0152,
+        "mils": 0.6,
+        "um": 15.2
+      }
+    },
+    {
+      "layer_name": "dielectric 2",
+      "type": "core",
+      "thickness": {
+        "mm": 1.065,
+        "mils": 41.93,
+        "um": 1065.0
+      },
+      "material": "FR4",
+      "color": "FR4 natural",
+      "epsilon_r": 4.5,
+      "loss_tangent": 0.02
+    },
+    {
+      "layer_name": "In2.Cu",
+      "type": "copper",
+      "thickness": {
+        "mm": 0.0152,
+        "mils": 0.6,
+        "um": 15.2
+      }
+    },
+    {
+      "layer_name": "dielectric 3",
+      "type": "prepreg",
+      "thickness": {
+        "mm": 0.2104,
+        "mils": 8.28,
+        "um": 210.4
+      },
+      "material": "FR4",
+      "color": "FR4 natural",
+      "epsilon_r": 4.5,
+      "loss_tangent": 0.016
+    },
+    {
+      "layer_name": "B.Cu",
+      "type": "copper",
+      "thickness": {
+        "mm": 0.035,
+        "mils": 1.38,
+        "um": 35.0
+      }
+    },
+    {
+      "layer_name": "B.Mask",
+      "type": "Bottom Solder Mask",
+      "thickness": {
+        "mm": 0.01,
+        "mils": 0.39,
+        "um": 10.0
+      },
+      "material": "Epoxy",
+      "color": "Green",
+      "epsilon_r": 3.3,
+      "loss_tangent": 0.0
+    },
+    {
+      "layer_name": "B.SilkS",
+      "type": "Bottom Silk Screen",
+      "material": "Direct Printing",
+      "color": "White"
+    }
+  ]
+}
